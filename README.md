@@ -44,3 +44,5 @@ Feel free to reach out to me via:
 
 **"Giving up is never an option."** 💪  
 **Happy coding! 😊**
+This project is licensed under the MIT License.
+You can view the license [here](https://choosealicense.com/licenses/mit/).
