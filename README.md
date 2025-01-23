@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%22Hi%2C+welcome!+Come+on+in.%22+%F0%9F%98%8A)](https://git.io/typing-svg)
+![Banner](https://github.com/jorgesislema/jorgesislema/blob/main/IMAGEN/YO%20SOY%20JORGE%20SISLEMA.png?raw=true)
 
 
 <!--
