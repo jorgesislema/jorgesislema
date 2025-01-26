@@ -38,7 +38,7 @@ Here are the technologies and tools I work with:
 
 Feel free to reach out to me via:
 - 📧 Email: **jrgsislema4@live.com**  
-- 💼 LinkedIn: [Jorge Sislema](https://linkedin.com/in/jorgesislema)
+- 💼 LinkedIn: [Jorge Sislema]([https://linkedin.com/in/jorgesislema](https://www.linkedin.com/in/jorge-luis-sislema-tarco-32b661347/))
 
 ---
 
