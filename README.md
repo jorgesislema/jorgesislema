@@ -9,8 +9,10 @@ My name is **Jorge Sislema**, and I am a **Data Engineer**, **Machine Learning E
 📖 I am here to **learn, grow, and collaborate** with like-minded individuals.  
 
 If you want to get in touch, feel free to contact me on:
-- **LinkedIn**: [Jorge Sislema](https://linkedin.com/in/jorgesislema)
-- **Email**: jrgesislema4@live.com
+If you want to get in touch, feel free to contact me on:
+- **LinkedIn**: [Jorge Sislema](https://www.linkedin.com/in/jorge-luis-sislema-tarco-32b661347/)
+- **Email**: [jrgesislema4@live.com](mailto:jrgesislema4@live.com)
+
 
 🔧 My Favorite Tools
 
